@@ -1,0 +1,8 @@
+The COMP 3104 DevOps course at George Brown College introduces students to DevOps principles, practices, and tools used in modern software development and IT operations. The course focuses on automation, continuous integration/continuous deployment (CI/CD), and collaboration between development and operations teams.
+
+Course Objectives
+Understanding the core principles of DevOps and its impact on software development.
+Learning automation techniques for infrastructure and software deployment.
+Implementing CI/CD pipelines for faster and more reliable software releases.
+Working with cloud-based solutions and containerization tools.
+Gaining hands-on experience with industry-standard DevOps tools.

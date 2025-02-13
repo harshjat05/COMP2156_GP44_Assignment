@@ -1,0 +1,8 @@
+DevOps improves collaboration, automation, and efficiency in SDLC, ensuring faster and more reliable software delivery.
+
+Faster Deployment – Automates CI/CD pipelines, reducing release time.
+Better Collaboration – Unites developers and operations teams, improving workflow.
+Higher Software Quality – Automates testing for early bug detection.
+Scalability & Reliability – Uses Infrastructure as Code (IaC) for consistency.
+Continuous Monitoring – Detects and resolves issues in real-time.
+DevOps makes SDLC faster, more efficient, and resilient, essential for modern software development.
