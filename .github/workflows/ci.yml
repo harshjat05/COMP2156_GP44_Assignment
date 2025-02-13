@@ -1,0 +1,22 @@
+name: GitHub Actions Demo
+run-name: ${{ github.actor }} is testing out GitHub Actions
+
+on: [push]
+
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository code
+        uses: actions/checkout@v4
+
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+
+      - run: echo "🔎 Running on a ${{ runner.os }} server hosted by GitHub!"
+
+      - run: echo "📂 The repository is ${{ github.repository }}."
+
+      - name: List all files in the repository
+        run: ls -lah ${{ github.workspace }}
+
+      - run: echo "✅ Workflow completed successfully!"
