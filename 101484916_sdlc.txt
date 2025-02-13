@@ -3,3 +3,4 @@ By implementing Continuous Deployment and Automated Testing, DevOps helps in del
 Organizations adopting DevOps see improvements in code quality, reduced deployment failures, and faster recovery from production issues.
 DevOps reduces the risk of deployment failures and improves recovery time.
 DevOps integrates automation into every phase of software development.
+Security practices in DevOps help prevent vulnerabilities early in the SDLC.
