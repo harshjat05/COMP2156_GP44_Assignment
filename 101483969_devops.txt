@@ -1,1 +1,2 @@
 COMP 3104 focuses on DevOps principles, automation, and CI/CD pipelines.
+COMP 3104 covers CI/CD tools like Jenkins, Docker, and Kubernetes.
