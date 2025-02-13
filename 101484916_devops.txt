@@ -2,3 +2,4 @@ COMP 3104 - DevOps is a course at George Brown College that focuses on modern De
 Topics covered include Continuous Integration, Continuous Deployment (CI/CD), Infrastructure as Code (IaC), and Cloud Computing.
 Popular tools taught in this course include Docker, Kubernetes, Jenkins, and Terraform.
 The course includes hands-on labs for Git workflows and CI/CD pipelines.
+COMP 3104 also covers configuration management tools like Ansible.
