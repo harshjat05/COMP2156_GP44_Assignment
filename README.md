@@ -3,7 +3,7 @@
 ## Group Members
 
 - **Leader:** Harsh (101484916) - [GitHub](https://github.com/Harshjat05)
-- **Member 2:** PRINCE (1023456) - [GitHub](https://github.com/princegahlawat)
+- **Member 2:** PRINCE (101483969) - [GitHub](https://github.com/princegahlawat)
 - **Member 3:** Umang (101490930) - [GitHub](https://github.com/Umang06092004)
 
 ## Project Description
