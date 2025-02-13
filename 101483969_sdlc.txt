@@ -1,0 +1,3 @@
+DevOps is crucial for SDLC as it bridges development and operations for faster delivery.
+DevOps accelerates SDLC by integrating automation, testing, and monitoring.
+Agile and DevOps complement each other in modern software development.
