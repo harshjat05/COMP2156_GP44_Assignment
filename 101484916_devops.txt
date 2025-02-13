@@ -3,3 +3,4 @@ Topics covered include Continuous Integration, Continuous Deployment (CI/CD), In
 Popular tools taught in this course include Docker, Kubernetes, Jenkins, and Terraform.
 The course includes hands-on labs for Git workflows and CI/CD pipelines.
 COMP 3104 also covers configuration management tools like Ansible.
+The course also introduces monitoring tools like Prometheus and Grafana.
