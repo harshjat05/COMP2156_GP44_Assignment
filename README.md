@@ -2,8 +2,8 @@
 
 ## Group Members
 - **Leader:** Harsh (101484916) - [GitHub](https://github.com/harshjat05)
-- **Member 2:** PRINCE (101483969) - [GitHub](https://github.com/PRINCE)
-- **Member 3:** Umang (101490930) - [GitHub](https://github.com/umang)
+- **Member 2:* PRINCE (101483969) - [GitHub](https://github.com/princegahlawat)
+- **Member 3:* Umang (101490930) - [GitHub](https://github.com/Umang06092004)
 
 ## Project Description
 This repository is for the **COMP 2156 - DevOps for System Administration** assignment.  
