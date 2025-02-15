@@ -1,3 +1,4 @@
+
 # COMP2156_Group44_Assignment
 
 ## Group Members
@@ -8,16 +9,18 @@
 ## Project Description
 This repository is for the **COMP 2156 - DevOps for System Administration** assignment.  
 It demonstrates Git collaboration, branching strategies, and CI/CD integration using **GitHub Actions**.
+>>>>>>> 20fcee3b4f6dbcbb6d71920e80130ca9a8eb0b87
 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourgithub/COMP2156_Group44_Assignment.git
+   git clone https://github.com/harshjat05-patch-1/COMP2156_Group44_Assignment.git
 2.Switch to Your Branch:
     git checkout -b 101484916-Harsh
     git push origin 101484916-Harsh
 3.Create and Add Your Files:
   touch 101484916_gb.txt 101484916_devops.txt 101484916_sdlc.txt
+
 echo "Information about George Brown College" > 101484916_gb.txt
 echo "DevOps concepts from COMP 3104" > 101484916_devops.txt
 echo "Importance of DevOps in software development" > 101484916_sdlc.txt
@@ -43,10 +46,11 @@ STUDENTID-Name (e.g., 101484916-Harsh)
 
 Work is done in individual branches before merging into main.
 
+
 Merge process:      
+
 git checkout main
 git pull origin main
 git merge STUDENTID-Name
 git push origin main
-
 

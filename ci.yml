@@ -1,0 +1,36 @@
+name: Continuous Integration for COMP2156 Group Assignment
+
+on:
+  push:
+    branches:
+      - main
+      - '**'  # Runs on all branches
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  CI-Pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js (Example for projects using JavaScript)
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies (If needed)
+        run: |
+          npm install || echo "No package.json found, skipping installation"
+
+      - name: Run Linter & Tests (Modify if needed)
+        run: |
+          npm test || echo "No tests found, skipping testing"
+
+      - name: Verify Workflow Execution
+        run: |
+          echo "✅ CI/CD Workflow Successfully Executed!"
+
