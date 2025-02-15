@@ -1,20 +1,20 @@
-# COMP2156_GP44_Assignment
 
-
+# COMP2156_Group44_Assignment
 
 ## Group Members
-- *Leader:* Harsh Jat (101484916) - [GitHub](https://github.com/harshjat05)
-- *Member 2:* PRINCE (101483969) - [GitHub](https://github.com/princegahlawat)
-- *Member 3:* Umang (101490930) - [GitHub](https://github.com/Umang06092004)
+- **Leader:** Harsh (101484916) - [GitHub](https://github.com/harshjat05)
+- **Member 2:* PRINCE (101483969) - [GitHub](https://github.com/princegahlawat)
+- **Member 3:* Umang (101490930) - [GitHub](https://github.com/Umang06092004)
 
 ## Project Description
-This repository is for the *COMP 2156 - DevOps for System Administration* assignment.
-It demonstrates Git collaboration, branching strategies, and CI/CD integration using *GitHub Actions*.
+This repository is for the **COMP 2156 - DevOps for System Administration** assignment.  
+It demonstrates Git collaboration, branching strategies, and CI/CD integration using **GitHub Actions**.
+>>>>>>> 20fcee3b4f6dbcbb6d71920e80130ca9a8eb0b87
 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourgithub/COMP2156_Group44_Assignment.git
+   git clone https://github.com/harshjat05-patch-1/COMP2156_Group44_Assignment.git
 2.Switch to Your Branch:
     git checkout -b 101484916-Harsh
     git push origin 101484916-Harsh
@@ -30,13 +30,14 @@ git push origin 101484916-Harsh
 
 #CI/CD Pipeline
 
-The project utilizes GitHub Actions for Continuous Integration (CI). The workflow is defined in .github/workflows/ci.yml >
+The project utilizes GitHub Actions for Continuous Integration (CI). The workflow is defined in .github/workflows/ci.yml and performs the following actions:
 
 Runs on every push and pull request to main
 
 Checks out the repository
 
 Displays repository structure
+
 # Branching Strategy
 
 Each group member follows the branch naming convention:
@@ -45,8 +46,11 @@ STUDENTID-Name (e.g., 101484916-Harsh)
 
 Work is done in individual branches before merging into main.
 
-Merge process:
+
+Merge process:      
+
 git checkout main
 git pull origin main
 git merge STUDENTID-Name
 git push origin main
+
