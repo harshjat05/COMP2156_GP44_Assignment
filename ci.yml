@@ -1,0 +1,10 @@
+   echo " ~N Running on ${{ runner.os }}"
+          echo "Branch: ${{ github.ref }}"
+          echo "Repository: ${{ github.repository }}"
+          echo " M-! Listing repository files"
+          ls ${{ github.workspace }}
+          echo " ~O Workflow is complete!"
+
+
+
+
